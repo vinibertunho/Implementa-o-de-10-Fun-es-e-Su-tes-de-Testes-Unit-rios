@@ -1,0 +1,12 @@
+{
+  "name": "atividade-3-2-jest",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Exercícios de funções de negócio e testes unitários com Jest.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
